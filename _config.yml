@@ -2,7 +2,7 @@
 title: Nimbicle
 email: fjohanns@gmail.com
 description: "Musings on software development and management"
-baseurl: "http://derfsplat.github.io"
+baseurl: ""
 url: "http://derfsplat.github.io"
 twitter_username: derfsplat
 github_username:  derfsplat
@@ -12,4 +12,4 @@ markdown: kramdown
 permalink: pretty
 
 #user defined
-highlighter: rouge
+#highlighter: rouge
