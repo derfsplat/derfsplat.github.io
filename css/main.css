@@ -417,3 +417,8 @@ a:visited { color: #205caa; }
     margin: 0 0 15px; }
 
 }
+
+.post-content .float-right {
+  float: right;
+  padding: 5px 5px;
+}
