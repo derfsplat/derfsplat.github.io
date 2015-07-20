@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://derfsplat.github.io"
 twitter_username: derfsplat
 github_username:  derfsplat
+site_author: "Fred Johanns III"
 
 # Build settings
 markdown: kramdown
